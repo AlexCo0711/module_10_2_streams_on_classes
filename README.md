@@ -33,9 +33,9 @@
 Пример результата выполнения программы:
 
 Алгоритм выполнения кода:
-1. Создание класса
-1.1 first_knight = Knight('Sir Lancelot', 10)
-1.2 second_knight = Knight("Sir Galahad", 20)
+1. Создание класса: 
+ 1.1 first_knight = Knight('Sir Lancelot', 10), 
+ 1.2 second_knight = Knight("Sir Galahad", 20)
 2. Запуск потоков и остановка текущего
 3. Вывод строки об окончании сражения
 
